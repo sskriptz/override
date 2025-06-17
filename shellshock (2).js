@@ -64962,7 +64962,7 @@
 		}, {
 			id: 2074,
 			name: "SL MVP Division B Stamp",
-			price: 2147483647,
+			price: 1,
 			item_type_id: 2,
 			item_type_name: "Stamp",
 			category_name: "Stamps",
@@ -64972,8 +64972,8 @@
 				y: 15,
 				tags: ["League"]
 			},
-			is_available: !1,
-			unlock: "manual"
+			is_available: !0,
+			unlock: "purchase"
 		}, {
 			id: 2075,
 			name: "CRGI Logo Stamp",
